@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <file-tree-renderer :item="nodes"/>
+    <file-tree-renderer :nodes="nodes"/>
   </div>
 </template>
 
